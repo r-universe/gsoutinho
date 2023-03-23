@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "markovMSM"]
+	path = markovMSM
+	url = https://github.com/cran/markovMSM
+	shallow = true
+	registered = true
+[submodule "presmTP"]
+	path = presmTP
+	url = https://github.com/cran/presmTP
+	shallow = true
+	registered = true
