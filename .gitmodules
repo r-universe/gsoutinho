@@ -8,6 +8,9 @@
 [submodule "presmTP"]
 	path = presmTP
 	url = https://github.com/cran/presmTP
+[submodule "presmoothedTP"]
+	path = presmoothedTP
+	url = https://github.com/cran/presmoothedTP
 [submodule "survivalREC"]
 	path = survivalREC
 	url = https://github.com/cran/survivalREC
