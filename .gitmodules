@@ -5,6 +5,9 @@
 [submodule "markovMSM"]
 	path = markovMSM
 	url = https://github.com/cran/markovMSM
+[submodule "p3state.msm"]
+	path = p3state.msm
+	url = https://github.com/cran/p3state.msm
 [submodule "presmTP"]
 	path = presmTP
 	url = https://github.com/cran/presmTP
